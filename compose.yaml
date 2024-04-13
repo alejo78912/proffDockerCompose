@@ -1,2 +1,2 @@
-image: spring-dockerfile
+image: Dockerfile
 containerPort: 8080
